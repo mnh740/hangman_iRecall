@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\trick\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\trick\Desktop\HangmanHelieWang\AS\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e411e21ea05de22a3ea0fd6cdb3be54a0c346998.jar" />
+    </item>
+    <item
+        jar="C:\Users\trick\Desktop\HangmanHelieWang\AS\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="C:\Users\trick\Desktop\HangmanHelieWang\AS\app\build\intermediates\pre-dexed\debug\classes-c3a951718460087c192a556e525749d1b2d19545.jar" />
+    </item>
+
+</items>
